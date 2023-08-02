@@ -1,8 +1,12 @@
 ![VICTORIA PARRY](https://github.com/VLParry/VLParry/assets/100985446/d206d089-ec3e-4514-a7c5-57f33ac4d82e)
-## Welcome to my GitHub!
+## :dizzy:Hi There!:dizzy:
 
-I am a recent graduate of Flatiron School's Software Engineering program. 
+Welcome to my GitHub! I am a recent graduate of Flatiron School's Software Engineering program. 
 Motivated by setting an inspiring example for my children, I am committed to lifelong learning and bringing a unique perspective to the tech world.
+
+- :computer:Project Walkthroughs:
+  * [Get You(Tube) Fit!](https://www.youtube.com/watch?v=jtdGWQ8sDYQ)
+  - [West Slope Go](https://youtu.be/gKs01vKYl0Y)
 
 - 📫 How to reach me: vlparry@gmail.com 
 <!--
